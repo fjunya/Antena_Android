@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tab_stream">新着ニュース</string>
+    <string name="tab_messages">検索</string>
+    <string name="tab_photos">ランキング</string>
+    <string name="tab_notifications">カテゴリー</string>
+    <string name="title_activity_web_view">詳細</string>
+
+
+</resources>

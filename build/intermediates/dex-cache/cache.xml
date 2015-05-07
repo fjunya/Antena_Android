@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fjunya/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.3.4/801fecfb8baf0ba5296e2d2ea0664f72b0761b9a/jackson-core-2.3.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="801fecfb8baf0ba5296e2d2ea0664f72b0761b9a">
+        <dex dex="/Users/fjunya/AndroidStudioProjects/Antena/Application/build/intermediates/pre-dexed/debug/jackson-core-2.3.4-95ab3b254f606b2fb79ebbff6c25468950f49d2f.jar" />
+    </item>
+    <item
+        jar="/Users/fjunya/AndroidStudioProjects/Antena/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/fjunya/AndroidStudioProjects/Antena/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-30a892b5e13db0e14b39bafc27aa6e8f60d2e81b.jar" />
+    </item>
+    <item
+        jar="/Users/fjunya/AndroidStudioProjects/SlidingTabsColors/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/fjunya/AndroidStudioProjects/SlidingTabsColors/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-bca5e91da00d8b308d1322ade89bb068c861f229.jar" />
+    </item>
+    <item
+        jar="/Users/fjunya/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.3.4/c9478f1871de4c9cf723e5d497a14c7ad274a50b/jackson-databind-2.3.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c9478f1871de4c9cf723e5d497a14c7ad274a50b">
+        <dex dex="/Users/fjunya/AndroidStudioProjects/Antena/Application/build/intermediates/pre-dexed/debug/jackson-databind-2.3.4-460f8883a189bedf85d631d74bb5afa6fa6b34a7.jar" />
+    </item>
+    <item
+        jar="/Users/fjunya/AndroidStudioProjects/SlidingTabsColors/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/fjunya/AndroidStudioProjects/SlidingTabsColors/Application/build/intermediates/pre-dexed/debug/classes-7de52c0d66ff2b65f88bd51b581b1396e9fd2f93.jar" />
+    </item>
+    <item
+        jar="/Users/fjunya/AndroidStudioProjects/Antena/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/fjunya/AndroidStudioProjects/Antena/Application/build/intermediates/pre-dexed/debug/classes-35c72bd1109502f0ba478cce375cdafd1f188a1a.jar" />
+    </item>
+    <item
+        jar="/Users/fjunya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/fjunya/AndroidStudioProjects/SlidingTabsColors/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-d9cacb88d72f1a6621dcb41d2ef8fd83752dcde7.jar" />
+    </item>
+    <item
+        jar="/Users/fjunya/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.3.0/f5e853a20b60758922453d56f9ae1e64af5cb3da/jackson-annotations-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f5e853a20b60758922453d56f9ae1e64af5cb3da">
+        <dex dex="/Users/fjunya/AndroidStudioProjects/Antena/Application/build/intermediates/pre-dexed/debug/jackson-annotations-2.3.0-8915f32256464028e9f989d3a78978b7acad1e71.jar" />
+    </item>
+
+</items>

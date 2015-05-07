@@ -1,0 +1,7 @@
+/Users/fjunya/AndroidStudioProjects/Antena/Application/build/intermediates/classes/debug
+/Users/fjunya/AndroidStudioProjects/Antena/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-d9cacb88d72f1a6621dcb41d2ef8fd83752dcde7.jar
+/Users/fjunya/AndroidStudioProjects/Antena/Application/build/intermediates/pre-dexed/debug/jackson-annotations-2.3.0-8915f32256464028e9f989d3a78978b7acad1e71.jar
+/Users/fjunya/AndroidStudioProjects/Antena/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-30a892b5e13db0e14b39bafc27aa6e8f60d2e81b.jar
+/Users/fjunya/AndroidStudioProjects/Antena/Application/build/intermediates/pre-dexed/debug/jackson-core-2.3.4-95ab3b254f606b2fb79ebbff6c25468950f49d2f.jar
+/Users/fjunya/AndroidStudioProjects/Antena/Application/build/intermediates/pre-dexed/debug/classes-35c72bd1109502f0ba478cce375cdafd1f188a1a.jar
+/Users/fjunya/AndroidStudioProjects/Antena/Application/build/intermediates/pre-dexed/debug/jackson-databind-2.3.4-460f8883a189bedf85d631d74bb5afa6fa6b34a7.jar
