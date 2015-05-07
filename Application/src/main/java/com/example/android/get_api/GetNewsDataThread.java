@@ -27,6 +27,9 @@ import java.util.List;
  * Created by fjunya on 2015/04/30.
  */
 public class GetNewsDataThread extends Thread {
+    /**
+     * Jsonデータの取得
+     */
 
     int start_loc;
     String search = null;

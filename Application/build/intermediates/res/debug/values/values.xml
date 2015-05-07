@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/fjunya/AndroidStudioProjects/Antena/Application/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/fjunya/AndroidStudioProjects/Antena/Application/src/main/res/values/template-dimens.xml -->
+    <eat-comment/>
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/Users/fjunya/AndroidStudioProjects/Antena/Application/src/main/res/values/base-strings.xml -->
+    <eat-comment/>
+    <string name="app_name">News Demo2</string>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+            A more advanced sample which shows how to use SlidingTabLayout to display a custom
+            ViewPager title strip, with custom coloring for each tab.
+            
+        
+        ]]>
+    </string>
+    <!-- From: file:/Users/fjunya/AndroidStudioProjects/Antena/Application/src/main/res/values/fragmentview_strings.xml -->
+    <eat-comment/>
+    <string name="sample_hide_log">Hide Log</string>
+    <string name="sample_show_log">Show Log</string>
+    <!-- From: file:/Users/fjunya/AndroidStudioProjects/Antena/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="tab_messages">検索</string>
+    <string name="tab_notifications">カテゴリー</string>
+    <string name="tab_photos">ランキング</string>
+    <string name="tab_stream">新着ニュース</string>
+    <string name="title_activity_web_view">詳細</string>
+    <!-- From: file:/Users/fjunya/AndroidStudioProjects/Antena/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="Theme.Sample"/>
+    <style name="Theme.Base" parent="android:Theme.Light"/>
+    <style name="Theme.Sample" parent="Theme.Base"/>
+    <style name="Widget"/>
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>
